@@ -11,3 +11,4 @@ yum install https://centos7.iuscommunity.org/ius-release.rpm
 yum install dkms
 yum install kernel-devel
 reboot
+https://www.youtube.com/watch?v=Cfbanio3Lao
