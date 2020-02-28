@@ -12,3 +12,6 @@ yum install dkms
 yum install kernel-devel
 reboot
 https://www.youtube.com/watch?v=Cfbanio3Lao
+
+Different Ways to Configure Static IP Address in RHEL 8
+https://www.linuxtechi.com/configure-static-ip-address-rhel8/
