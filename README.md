@@ -18,5 +18,5 @@ https://www.linuxtechi.com/configure-static-ip-address-rhel8/
 nmcli con up Połączenie\ przewodowe\ 1
 How To Configure Static And Dynamic IP Address In Arch Linux
 https://www.ostechnix.com/configure-static-dynamic-ip-address-arch-linux/
-Increase the disk space of a container
-https://discuss.linuxcontainers.org/t/increase-the-disk-space-of-a-container/3104
+Change storage size and driver
+https://discuss.linuxcontainers.org/t/change-storage-size-and-driver/6097
