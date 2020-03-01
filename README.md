@@ -20,3 +20,4 @@ How To Configure Static And Dynamic IP Address In Arch Linux
 https://www.ostechnix.com/configure-static-dynamic-ip-address-arch-linux/
 Change storage size and driver
 https://discuss.linuxcontainers.org/t/change-storage-size-and-driver/6097
+https://futurestud.io/tutorials/fix-ubuntu-debian-apt-get-keyexpired-the-following-signatures-were-invalid
